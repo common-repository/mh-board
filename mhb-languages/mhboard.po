@@ -1,0 +1,212 @@
+# Copyright (C) 2012 mhboard
+# This file is distributed under the same license as the mhboard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: mhboard 1.0-a\n"
+"Report-Msgid-Bugs-To: http://ssamture.net/\n"
+"POT-Creation-Date: 2012-07-24 06:45:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-11-22 08:47+0900\n"
+"Last-Translator: MinHyeong Lim <ssamture@gmail.com>\n"
+"Language-Team: Minhyeong Lim <ssamture@gmail.com>\n"
+
+msgid "Boards"
+msgstr "게시판"
+
+msgid "no"
+msgstr "번호"
+
+msgid "category"
+msgstr "카테고리"
+
+msgid "title"
+msgstr "제목"
+
+msgid "comment"
+msgstr "댓글"
+
+msgid "author"
+msgstr "작성자"
+
+msgid "date"
+msgstr "날짜"
+
+msgid "count"
+msgstr "조회수"
+
+msgid "All Boards"
+msgstr "모든 게시판"
+
+msgid "Tags"
+msgstr "게시판 태그"
+
+msgid "Board Category"
+msgstr "게시판 종류"
+
+msgid "MH Board Style"
+msgstr "게시판 스타일"
+
+msgid "MH Board Settings"
+msgstr "게시판 설정"
+
+msgid "MH Board Permalink"
+msgstr "게시판 고유주소"
+
+msgid "MH Board Custom CSS"
+msgstr "사용자정의 CSS"
+
+msgid "MH Board Update"
+msgstr "업데이트"
+
+msgid "Button background color"
+msgstr "버튼 배경 색"
+
+msgid "Button font color"
+msgstr "버튼 글씨 색"
+
+msgid "Color code:"
+msgstr "색상코드:"
+
+msgid "Specifies the background color of the button."
+msgstr "버튼 배경 색을 지정해줍니다."
+
+msgid "Specifies the background color of the font."
+msgstr "버튼 글씨 색을 지정해줍니다."
+
+msgid "Email Push"
+msgstr "이메일 알림"
+
+msgid "MH Board Comment"
+msgstr "MH Board 댓글"
+
+msgid "Guest writing"
+msgstr "비회원 글쓰기"
+
+msgid "Categories Hide"
+msgstr "카테고리 감추기"
+
+msgid "Use reply"
+msgstr "답글 사용"
+
+msgid "Posts per page"
+msgstr "페이지당 표시할 리스트 개수"
+
+msgid "Used:"
+msgstr "사용:"
+
+msgid "When people leave comments to the author, we will notify you by email."
+msgstr "작성한 글에 댓글이 달리면 작성자에게 이메일로 알려줍니다."
+
+msgid "Use the comments in the MH Board template."
+msgstr "MH Board 템플릿을 기본 댓글 템플릿으로 사용합니다."
+
+msgid "To be a guest writing."
+msgstr "비회원 글쓰기를 허용합니다."
+
+msgid "Allows you to specify the number to be displayed per page."
+msgstr "각각의 게시판 리스트에 표시할 리스트 개수를 지정합니다. 기본값은 10"
+
+msgid "No"
+msgstr "번호"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Author"
+msgstr "작성자"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Count"
+msgstr "조회수"
+
+msgid "Write"
+msgstr "글쓰기"
+
+msgid "Reply"
+msgstr "답글"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Edit"
+msgstr "수정"
+
+msgid "Add"
+msgstr "등록"
+
+msgid "Leave a comment"
+msgstr "댓글을 등록해주세요"
+
+msgid "Comments:"
+msgstr "댓글:"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Website"
+msgstr "웹사이트"
+
+msgid "Comma separated"
+msgstr "콤마(,)로 구분해주세요."
+
+msgid "Edit Passwrod"
+msgstr "수정 비밀번호"
+
+msgid "Category"
+msgstr "카테고리"
+
+msgid "Content"
+msgstr "내용"
+
+msgid "Status"
+msgstr "공개여부"
+
+msgid "Public"
+msgstr "공개"
+
+msgid "Private"
+msgstr "비공개"
+
+msgid "E-mail"
+msgstr "이메일"
+
+msgid "Password"
+msgstr "비밀번호"
+
+msgid "Site"
+msgstr "웹사이트"
+
+msgid "Attachment"
+msgstr "첨부파일"
+
+msgid "Cancel"
+msgstr "취소"
+
+#admin/mh-board-option.php:9
+#admin/mh-board-permission.php:14
+msgid "MH Board Permission"
+msgstr "게시판 권한 설정"
+
+#admin/mh-board-permission.php:41
+msgid "Read"
+msgstr "읽기"
+
+#templates/default/mhboard-single.php:121
+msgid "List"
+msgstr "목록"
+
+#mh-board.php:242,249
+msgid "notice"
+msgstr "공지"
+
+#includes/mh-functions.php:358,372
+msgid "Access Denied"
+msgstr "접근 권한이 없습니다."
+

@@ -1,0 +1,19 @@
+/* MH Board Admin panel stylesheet */
+/* MH Board Permission */
+.postbox{
+	margin: 10px 10px 0 0;
+}
+.postbox h3{padding:5px;}
+.postbox th,
+.postbox td{
+	text-align:center;
+	padding:3px;
+}
+.postbox .role{
+	text-align:left;
+	border-right:1px solid #ccc;
+}
+#nav h2{
+	border-bottom:1px solid #ccc;
+	padding-bottom:0;
+}
